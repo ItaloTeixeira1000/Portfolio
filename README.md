@@ -75,7 +75,7 @@
 # Biblioteca
 
 
-    Sistema de biblioteca
+  Sistema de biblioteca
 
 
 ![login](biblio-images/login.png)
@@ -100,7 +100,7 @@
 # Cadastro de produtos e fornecedores
 
 
-       Sistema para relacionar produtos e seus respectivos fornecedores
+   Sistema para relacionar produtos e seus respectivos fornecedores
 
 
 ![Login](estoque-images/login.png)
